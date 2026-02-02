@@ -1,3 +1,0 @@
--- Versa Panel 
--- Server Bridge (QB)
--- Documentation: Coming Soon

@@ -1,3 +1,0 @@
--- Versa Panel 
--- Client Bridge (ESX)
--- Documentation: Coming Soon
